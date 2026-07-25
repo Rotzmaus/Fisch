@@ -367,7 +367,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1769880343}
   m_Layer: 0
+<<<<<<< HEAD
   m_Name: pompus
+=======
+  m_Name: Rechte Propaganda
+>>>>>>> c173f75c332de19c6e5ce04902f25a219fcb4e36
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
