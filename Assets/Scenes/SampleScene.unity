@@ -367,7 +367,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1769880343}
   m_Layer: 0
-  m_Name: Linke Propaganda
+  m_Name: Rechte Propaganda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
