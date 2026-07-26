@@ -16,12 +16,11 @@ public class ballspawnscript : MonoBehaviour
     {
         if (ball != null)
         {
-            if (Keyboard.current.spaceKey.isPressed)
+            if (Keyboard.current.spaceKey.wasPressedThisFrame)
             {
                 float x = Random.Range(-1.0f, 1.0f);
                 Vector3 position = transform.position + new Vector3(x, 0.0f, 0.0f);
                 GameObject huansohn = Instantiate(ball, position, Quaternion.identity);
-                huansohn.GetComponentInChildren<SpriteRenderer>().sprite = Resources.Load<Sprite>("ballsToBig");
             }
         }
     }
