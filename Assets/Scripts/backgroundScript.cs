@@ -14,5 +14,6 @@ public class backgroundScript : MonoBehaviour
     {
         if(kackendesSchwein.flipX==true){
         kackendesSchwein.flipX=false;}else{kackendesSchwein.flipX=true;}
+        
     }
 }
