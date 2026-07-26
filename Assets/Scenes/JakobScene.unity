@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 226388296}
   - component: {fileID: 226388295}
   - component: {fileID: 226388294}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ceiling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -269,7 +269,7 @@ GameObject:
   - component: {fileID: 567615999}
   - component: {fileID: 567615998}
   - component: {fileID: 567615997}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -545,7 +545,7 @@ GameObject:
   - component: {fileID: 617043222}
   - component: {fileID: 617043221}
   - component: {fileID: 617043223}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -776,7 +776,7 @@ GameObject:
   - component: {fileID: 1886138745}
   - component: {fileID: 1886138744}
   - component: {fileID: 1886138743}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: wall1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -996,10 +996,6 @@ PrefabInstance:
     - target: {fileID: 766364228259010884, guid: 98848923012cdf247ac762b3e37f2891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6288296262969639268, guid: 98848923012cdf247ac762b3e37f2891, type: 3}
-      propertyPath: m_Mass
-      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 8940876712888688830, guid: 98848923012cdf247ac762b3e37f2891, type: 3}
       propertyPath: m_Name
